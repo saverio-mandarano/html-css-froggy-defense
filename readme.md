@@ -1,4 +1,4 @@
-# FROGGY DEFENSE
+# FROGGY DEFENSE & FLEXBOX DEFENSE
 
 **Repo:** `html-css-froggy-defense`
 
